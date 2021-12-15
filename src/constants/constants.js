@@ -26,6 +26,43 @@ export const projects = [
     visit: 'https://sytemap.netlify.app/',
     id: 2,
   },
+  {
+    title: 'GPT-3',
+    description: "A UI/UX design that is being translated into a full responsive design using react framework",
+      image: '/images/gpt-3.png',
+      tags: ['React', 'Tailwind CSS'],
+    source: '#',
+    visit: 'https://gpt-3-react-landing-page.vercel.app/',
+    id: 3,
+  },
+  {
+    title: 'House Africa',
+    description: "Landing page website design for House Africa. House Africa is a blockchain-based property record system, that help home buyers and financial companies to access, verify and value properties effortlessly",
+      image: '/images/house-africa.png',
+      tags: ['HTML', 'CSS', 'JavaScript'],
+    source: '#',
+    visit: 'https://houseafrica.io/',
+    id: 4,
+  },
+  {
+    title: 'MyClinic v1.2',
+    description: "Landing page website design for Myclinic.ng. House Africa is a is an online, on-demand platform that enables anyone from anywhere to see and talk to a doctor at anytime either using the mobile app (for smart phone users) or by dialing the smart number (for non smart phone users).",
+      image: '/images/myclinic-1.png',
+      tags: ['HTML', 'CSS', 'JavaScript'],
+    source: '#',
+    visit: 'https://myclinc-landing-page-v-1-2.vercel.app/',
+    id: 4,
+  },
+  {
+    title: 'MyClinic v1.3',
+    description: "Landing page website design for Myclinic.ng. House Africa is a is an online, on-demand platform that enables anyone from anywhere to see and talk to a doctor at anytime either using the mobile app (for smart phone users) or by dialing the smart number (for non smart phone users).",
+      image: '/images/myclinic-2.png',
+      tags: ['HTML', 'CSS', 'JavaScript'],
+    source: '#',
+    visit: 'https://myclinc-landing-page-v-1-3.vercel.app/',
+    id: 4,
+  },
+
   // {
   //   title: 'Unichat',
   //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
@@ -45,6 +82,6 @@ export const TimeLineData = [
   // { year: 2021, text: 'Started my own platform', },
 ];
 
-export const logo = {
-  image: '/images/logo.png',
-}
+// export const logo = {
+//   image: '/images/logo.png',
+// }
