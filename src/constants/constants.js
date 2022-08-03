@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'The Nest Project',
     description: "The Nest Project is designed for micro-level start-up companies, SMEs, and individuals looking to start up a business, and help equip them with skills and knowledge.",
-      image: '/images/6.png',
+      image: '/images/6.PNG',
       tags: ['', '', ''],
     source: '#',
     visit: 'https://thenest.aiivon.com',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Brant Technologies',
     description: "Brant is a leading player for local Nigerian companies in its specialized fields in the Oil and Gas industry worldwide.",
-      image: '/images/7.png',
+      image: '/images/7.PNG',
       tags: ['', '', ''],
     source: '#',
     visit: 'https://branttechnologies.com.ng',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'House Africa',
     description: "Landing page website design for House Africa. House Africa is a blockchain-based property record system, that help home buyers and financial companies to access, verify and value properties effortlessly",
-      image: '/images/house-africa.png',
+      image: '/images/house-africa.PNG',
       tags: ['', '', ''],
     source: '#',
     visit: 'https://houseafrica.io/',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'GPT-3',
     description: "A UI/UX design that is being translated into a full responsive design using react framework",
-      image: '/images/gpt-3.png',
+      image: '/images/gpt-3.PNG',
       tags: ['', ''],
     source: '#',
     visit: 'https://gpt-3-react-landing-page.vercel.app/',
@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'MyClinic v1.2',
     description: "Landing page website design for Myclinic.ng. House Africa is a is an online, on-demand platform that enables anyone from anywhere to see and talk to a doctor at anytime either using the mobile app (for smart phone users) or by dialing the smart number (for non smart phone users).",
-      image: '/images/myclinic-1.png',
+      image: '/images/myclinic-1.PNG',
       tags: ['', '', ''],
     source: '#',
     visit: 'https://myclinc-landing-page-v-1-2.vercel.app/',
@@ -56,7 +56,7 @@ export const projects = [
   {
     title: 'MyClinic v1.3',
     description: "Landing page website design for Myclinic.ng. House Africa is a is an online, on-demand platform that enables anyone from anywhere to see and talk to a doctor at anytime either using the mobile app (for smart phone users) or by dialing the smart number (for non smart phone users).",
-      image: '/images/myclinic-2.png',
+      image: '/images/myclinic-2.PNG',
       tags: ['', '', ''],
     source: '#',
     visit: 'https://myclinc-landing-page-v-1-3.vercel.app/',
